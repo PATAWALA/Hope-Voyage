@@ -82,11 +82,9 @@ export const testimonials: Testimonial[] = [
     visaType: "Permis d'études",
     badge: "Visa Accordé",
     quote:
-      "J'ai reçu mon visa pour Montréal en 3 mois. L'équipe a tout géré, du CAQ au permis. Merci Hope Voyage !",
-    image:
-      "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800&q=80&auto=format&fit=crop",
-    avatar:
-      "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?w=200&q=80&auto=format&fit=crop",
+    "J'ai reçu mon visa pour Montréal en 3 mois. L'équipe a tout géré, du CAQ au permis. Merci Hope Voyage !",
+    image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800&q=80&auto=format&fit=crop",
+    avatar: "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?w=200&q=80&auto=format&fit=crop",
     rating: 5,
   },
   {
