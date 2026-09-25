@@ -72,7 +72,6 @@ export const services: Service[] = [
     accent: "green",
   },
 ];
-
 export const testimonials: Testimonial[] = [
   {
     id: "t1",
@@ -81,8 +80,7 @@ export const testimonials: Testimonial[] = [
     destination: "Canada",
     visaType: "Permis d'études",
     badge: "Visa Accordé",
-    quote:
-    "J'ai reçu mon visa pour Montréal en 3 mois. L'équipe a tout géré, du CAQ au permis. Merci Hope Voyage !",
+    quote: "J'ai reçu mon visa pour Montréal en 3 mois. L'équipe a tout géré, du CAQ au permis. Merci Hope Voyage !",
     image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800&q=80&auto=format&fit=crop",
     avatar: "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?w=200&q=80&auto=format&fit=crop",
     rating: 5,
@@ -94,12 +92,9 @@ export const testimonials: Testimonial[] = [
     destination: "France",
     visaType: "Visa étudiant",
     badge: "Bourse Confirmée",
-    quote:
-      "Bourse de 8 000€ obtenue à Toulouse. Sans eux je n'aurais jamais osé candidater. Dossier béton.",
-    image:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=800&q=80&auto=format&fit=crop",
-    avatar:
-      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&q=80&auto=format&fit=crop",
+    quote: "Bourse de 8 000€ obtenue à Toulouse. Sans eux je n'aurais jamais osé candidater. Dossier béton.",
+    image: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=800&q=80&auto=format&fit=crop",
+    avatar: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&q=80&auto=format&fit=crop",
     rating: 5,
   },
   {
@@ -109,12 +104,9 @@ export const testimonials: Testimonial[] = [
     destination: "Belgique",
     visaType: "Regroupement familial",
     badge: "Visa Accordé",
-    quote:
-      "Après 2 refus par moi-même, ils ont monté un dossier en 1 mois. Visa accordé du premier coup.",
-    image:
-      "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=800&q=80&auto=format&fit=crop",
-    avatar:
-      "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=200&q=80&auto=format&fit=crop",
+    quote: "Après 2 refus par moi-même, ils ont monté un dossier en 1 mois. Visa accordé du premier coup.",
+    image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=800&q=80&auto=format&fit=crop",
+    avatar: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=200&q=80&auto=format&fit=crop",
     rating: 5,
   },
   {
@@ -124,12 +116,9 @@ export const testimonials: Testimonial[] = [
     destination: "USA",
     visaType: "Billet + Hôtel",
     badge: "Billet Réservé",
-    quote:
-      "Billet Abidjan–New York à -40% du prix normal. Paiement en 2 fois accepté. Service impeccable.",
-    image:
-      "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=800&q=80&auto=format&fit=crop",
-    avatar:
-      "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&q=80&auto=format&fit=crop",
+    quote: "Billet Abidjan–New York à -40% du prix normal. Paiement en 2 fois accepté. Service impeccable.",
+    image: "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=800&q=80&auto=format&fit=crop",
+    avatar: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&q=80&auto=format&fit=crop",
     rating: 5,
   },
   {
@@ -139,12 +128,9 @@ export const testimonials: Testimonial[] = [
     destination: "Canada",
     visaType: "Express Entry",
     badge: "Visa Accordé",
-    quote:
-      "Résidence permanente validée. Leur expertise sur Express Entry a fait toute la différence.",
-    image:
-      "https://images.unsplash.com/photo-1519834785169-98be25ec3f84?w=800&q=80&auto=format&fit=crop",
-    avatar:
-      "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=200&q=80&auto=format&fit=crop",
+    quote: "Résidence permanente validée. Leur expertise sur Express Entry a fait toute la différence.",
+    image: "https://images.unsplash.com/photo-1519834785169-98be25ec3f84?w=800&q=80&auto=format&fit=crop",
+    avatar: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=200&q=80&auto=format&fit=crop",
     rating: 5,
   },
   {
@@ -154,12 +140,9 @@ export const testimonials: Testimonial[] = [
     destination: "Allemagne",
     visaType: "Visa travail",
     badge: "Visa Accordé",
-    quote:
-      "Contrat de travail + visa en 4 mois. Ils connaissent vraiment les procédures européennes.",
-    image:
-      "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=800&q=80&auto=format&fit=crop",
-    avatar:
-      "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=200&q=80&auto=format&fit=crop",
+    quote: "Contrat de travail + visa en 4 mois. Ils connaissent vraiment les procédures européennes.",
+    image: "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=800&q=80&auto=format&fit=crop",
+    avatar: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=200&q=80&auto=format&fit=crop",
     rating: 5,
   },
-];  
+];
