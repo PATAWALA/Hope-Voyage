@@ -81,7 +81,7 @@ export default function Hero() {
         <div className="relative animate-slide-up">
           <div className="relative aspect-[4/5] w-full overflow-hidden rounded-3xl shadow-card-hover sm:aspect-[5/6]">
             <Image
-              src="https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&q=80"
+              src="https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&q=80&auto=format&fit=crop"
               alt="Étudiante souriante à l'aéroport avec son passeport"
               fill
               priority
