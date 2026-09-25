@@ -162,4 +162,4 @@ export const testimonials: Testimonial[] = [
       "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=200&q=80&auto=format&fit=crop",
     rating: 5,
   },
-];
+];  
